@@ -9,6 +9,6 @@ Después de hacer esto, se le enviará el resultado del comando. Si la casa no p
 
 Para editar sus opciones de inicio, simplemente ejecute el comando */home* Debería ver un menú como el siguiente.
 
-![Menu de tus hogares](https://imgur.com/FITaNWP)
+![Menu de tus hogares](https://i.imgur.com/FITaNWP.png)
 
 Haga clic derecho en esta opción (cambie de slot si está en Bedrock Edition) y verá un menú como el siguiente.
