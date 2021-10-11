@@ -85,3 +85,17 @@ Una vez que decidas qué mascota quieres, simplemente haz clic en ella y la masc
 ![Clic para ver animacion](https://i.imgur.com/fDByX3M.gif)
 El tipo de mascota que elijas también depende del rango que tengas. Para un rango más alto, visite nuestra tienda web.
 
+
+
+## Olfatear
+Tal como lo dice el nombre, esta opción es para que tu mascota rastree al jugador más cercano para que puedas saber su ubicación. Hay un tiempo de reutilización para esta opción, así que tenlo en cuenta. Además, no todas las mascotas pueden rastrear a otro jugador.
+
+## Recompensa a tu Mascota
+Esta opción es avanzada y tomó bastante tiempo programar. Esta opción le permite darle un premio a su mascota. Cuando hagas esto, su barra de agradecimiento subirá. Cuando la barra supere los 1000, la mascota dejará lo que está haciendo e irá a buscar un tesoro para ti. Este tesoro contiene elementos muy exclusivos y avanzados que puedes usar. 
+
+
+
+![enter image description here](https://i.imgur.com/srudLtW.png)
+
+## Haz Que tu Mascota Desaparezca
+Puede utilizar esta opción para hacer desaparecer a su mascota. Siempre que intente hacer algo y su mascota esté en camino y no le permita hacer nada. Para que vuelva a aparecer, simplemente escriba /pet y nuestro sistema le indicará que aparezca primero a su mascota.
